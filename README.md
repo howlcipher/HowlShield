@@ -10,3 +10,5 @@ The project is in M0 research. See the [roadmap](ROADMAP.md) and the
 The initial target is local PDF and DOCX inspection with explicit coverage,
 source locations, deterministic content selection, and independently checkable
 reconstruction evidence. Document content remains untrusted throughout.
+
+A [PDF extractor smoke check](docs/evidence/m0.md) records the first benign control.
