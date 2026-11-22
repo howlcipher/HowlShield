@@ -40,5 +40,5 @@ external candidates for source and runtime comparison.
 | Candidate | Revision | Evidence level |
 | --- | --- | --- |
 | Hidden Text Detector | `ce9e505dc1c128701e921e8d7e1a133c7ff28db8` | README, dependency manifest and two benign runtime controls. PyMuPDF and python-docx required. pikepdf and NumPy optional with coverage or performance tradeoffs. |
-| WhatsInMyPDF | `3bdd2e746f4b9fa617ea87bf702b8c7fe95d97f8` | Upstream documentation. Core runtime control recorded. Browser behavior pending reproduction. |
+| WhatsInMyPDF | `3bdd2e746f4b9fa617ea87bf702b8c7fe95d97f8` | Upstream documentation. Core runtime control recorded. Benign browser flow reproduced with request instrumentation. |
 | Dangerzone | `f97310cad237d2f96a58df3ab004c241628a39dd` | Upstream documentation and release notes. Converter footprint and fixture outputs pending reproduction. |
