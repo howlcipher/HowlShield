@@ -16,3 +16,5 @@ A [PDF extractor smoke check](docs/evidence/m0.md) records the first benign cont
 The research branch also records [scanner and raster controls](docs/evidence/m0.md).
 
 The [browser control](docs/evidence/m0.md#whatsinmypdf-browser-control) checks the local file-selection flow.
+
+[Contributing](CONTRIBUTING.md) describes owner approval for agent-authored pull requests.

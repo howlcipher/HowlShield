@@ -7,3 +7,4 @@
 * Record the bounded HowlDream exploration and its outcome.
 * Record a pinned scanner-core smoke result and a raster reconstruction comparison.
 * Verify the pinned WhatsInMyPDF browser scan on one benign PDF.
+* Document owner approval for pull requests opened by a separate GitHub App.
