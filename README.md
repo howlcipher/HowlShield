@@ -20,3 +20,5 @@ The [browser control](docs/evidence/m0.md#whatsinmypdf-browser-control) checks t
 [Contributing](CONTRIBUTING.md) describes owner approval for agent-authored pull requests.
 
 The [DOCX differential control](docs/evidence/m0.md#docx-structure-versus-renderer-export) compares structural extraction with renderer export.
+
+The [Dangerzone control](docs/evidence/m0.md#dangerzone-document-to-pixels-baseline) exercises its signed conversion image on PDF and DOCX.
