@@ -9,3 +9,4 @@
 * Verify the pinned WhatsInMyPDF browser scan on one benign PDF.
 * Document owner approval for pull requests opened by a separate GitHub App.
 * Record a DOCX structure and renderer-export differential on the benign editorial control.
+* Verify a pinned Dangerzone image and record its PDF and DOCX raster outputs.
