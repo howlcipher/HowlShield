@@ -8,3 +8,4 @@
 * Record a pinned scanner-core smoke result and a raster reconstruction comparison.
 * Verify the pinned WhatsInMyPDF browser scan on one benign PDF.
 * Document owner approval for pull requests opened by a separate GitHub App.
+* Record a DOCX structure and renderer-export differential on the benign editorial control.

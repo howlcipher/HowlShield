@@ -18,3 +18,5 @@ The research branch also records [scanner and raster controls](docs/evidence/m0.
 The [browser control](docs/evidence/m0.md#whatsinmypdf-browser-control) checks the local file-selection flow.
 
 [Contributing](CONTRIBUTING.md) describes owner approval for agent-authored pull requests.
+
+The [DOCX differential control](docs/evidence/m0.md#docx-structure-versus-renderer-export) compares structural extraction with renderer export.
