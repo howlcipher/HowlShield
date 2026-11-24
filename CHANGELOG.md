@@ -11,3 +11,4 @@
 * Record a DOCX structure and renderer-export differential on the benign editorial control.
 * Verify a pinned Dangerzone image and record its PDF and DOCX raster outputs.
 * Measure recoverable text after raster PDF reconstruction with and without OCR.
+* Verify upstream Dangerzone replay and document PDF trailer ID variability.

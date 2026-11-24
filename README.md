@@ -24,3 +24,5 @@ The [DOCX differential control](docs/evidence/m0.md#docx-structure-versus-render
 The [Dangerzone control](docs/evidence/m0.md#dangerzone-document-to-pixels-baseline) exercises its signed conversion image on PDF and DOCX.
 
 The [OCR control](docs/evidence/m0.md#dangerzone-pixel-to-pdf-and-ocr-control) measures searchable text after raster reconstruction.
+
+The [upstream replay](docs/evidence/m0.md#pinned-upstream-dangerzone-replay) cross-checks the local OCR control.
