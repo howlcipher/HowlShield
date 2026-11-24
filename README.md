@@ -22,3 +22,5 @@ The [browser control](docs/evidence/m0.md#whatsinmypdf-browser-control) checks t
 The [DOCX differential control](docs/evidence/m0.md#docx-structure-versus-renderer-export) compares structural extraction with renderer export.
 
 The [Dangerzone control](docs/evidence/m0.md#dangerzone-document-to-pixels-baseline) exercises its signed conversion image on PDF and DOCX.
+
+The [OCR control](docs/evidence/m0.md#dangerzone-pixel-to-pdf-and-ocr-control) measures searchable text after raster reconstruction.
