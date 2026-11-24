@@ -27,3 +27,24 @@ bounded baseline and license review.
 
 No runtime integration is selected. Validate ecosystem candidates with
 measurable cost and evidence benefits.
+
+## Paired architecture study
+
+| Candidate | Main benefit | Failure mode to measure |
+| --- | --- | --- |
+| Structural selection with visual corroboration | Retains exact characters and can represent accessibility units explicitly | Alignment between structure and visual evidence can fail or produce ambiguous matches |
+| Raster-first reconstruction with independent OCR and parallel structural inventory | Limits the reconstruction input to page pixels while retaining a separate omission inventory | OCR and rendering can lose reading order, links, accessibility and text fidelity |
+
+Use paired, manually labeled PDF and DOCX controls covering scanned pages,
+accessibility descriptions, ligatures, columns, tables, footnotes, comments
+and metadata. Predeclare the policy and acceptable task answers. Compare
+allowed-unit recall, excluded-unit leakage, reading-order edit distance,
+task accuracy, unresolved-unit fraction, replay stability, peak memory and
+elapsed time. Pin renderer, fonts and OCR. Keep failed parses in the coverage
+denominator. Prefer the option with stronger legitimate content preservation
+at the same predeclared leakage threshold if its evidence also passes
+independent verification.
+
+The initial [raster proxy](../evidence/m0.md#raster-reconstruction-proxy)
+establishes a simple difference between the visible and extractable views.
+It neither tests OCR nor selects the architecture.

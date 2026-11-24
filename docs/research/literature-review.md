@@ -30,4 +30,9 @@ in inspection and ground coverage in explicitly supported features.
 [PDF ISO 32000-2](https://pdfa.org/sponsored-standards/)
 [ECMA-376](https://ecma-international.org/publications-and-standards/standards/ecma-376/)
 
-Preprint review and citation screening remain in progress.
+## Preprint reviewed
+
+Beurer-Kellner et al. describe authority and data-flow patterns for agents.
+This assessment uses the arXiv version. It motivates testing authorization
+separately from extraction and output accuracy.
+[Design Patterns for Securing LLM Agents against Prompt Injections](https://arxiv.org/abs/2506.08837)
